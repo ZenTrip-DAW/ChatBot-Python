@@ -160,6 +160,6 @@ python app.py
 ```
 http://localhost:5001
 ```
-
+Desarrollado por Daniela Ene, Paula Suárez y Daniela Villegas
 
 
