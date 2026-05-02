@@ -29,7 +29,7 @@ La base de datos la hicimos con **SQLite**, donde almacenamos las preguntas y re
 - Búsqueda por modo de juego (solitario/online)
 - Lista de categorías disponibles
 - Sistema de sesiones de usuario
-- Historial de conversaciones
+- Descarga de conversación
 - Normalización de texto (tildes, puntuación)
 - Paginación de resultados
 - Detección de plataformas sin juegos
